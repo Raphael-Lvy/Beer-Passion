@@ -1,0 +1,25 @@
+
+.about-header {
+   
+
+}
+
+.about-header h3 {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    font-size: 8vw;
+    margin-bottom: 30px;
+}
+
+
+.about-shadow {
+    box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+}
+
+@media only screen and (max-width: 759px) {
+    .about-header h3 {
+        font-size: 12vw;
+    }
+}

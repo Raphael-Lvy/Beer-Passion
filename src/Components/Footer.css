@@ -1,0 +1,45 @@
+.logo {
+    font-family: 'Fredoka One', cursive;
+}
+
+.footer-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-text {
+    color: white;
+    display: flex;
+    align-content: center;
+    padding: 15px  !important;
+   margin: 0;
+font-size: 1.2rem;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 240px;
+    color: gray;
+    margin: 0 10px;
+  }
+  
+  .social-logo {
+    color: #fff;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+
+  .social-icon-link {
+      color: white;
+      font-size: 2rem;
+  }

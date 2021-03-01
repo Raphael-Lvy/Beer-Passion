@@ -1,0 +1,24 @@
+
+.beer-header {
+   
+
+}
+
+.beer-header h3 {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    font-size: 8vw;
+    margin-bottom: 30px;
+}
+
+.beer-shadow {
+    box-shadow: 0px 0px 6px 4px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 0px 0px 6px 4px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 6px 4px rgba(0,0,0,0.5);
+}
+
+@media only screen and (max-width: 759px) {
+    .beer-header h3 {
+        font-size: 12vw;
+    }
+}

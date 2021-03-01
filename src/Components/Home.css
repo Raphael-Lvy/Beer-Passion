@@ -1,0 +1,57 @@
+.home-header {
+    position :absolute;
+    top: 10px;
+}
+
+.home-header h3 {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    font-size: 4.5vw;
+}
+
+.home-btn {
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 2rem;
+    vertical-align: middle;
+    align-self: center;
+    box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 3px 3px 6px 1px rgba(0,0,0,0.5);
+}
+
+.home-btn-text {
+    color: white;
+    display: flex;
+    align-content: center;
+    padding: 5px  !important;
+   margin: 0;
+}
+
+.home-shadow {
+    box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+    -webkit-box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 7px 7px 6px 1px rgba(0,0,0,0.5);
+    
+}
+
+.home-carousel {
+    width: 75%;
+ }
+
+@media only screen and (max-width: 759px) {
+    .home-btn-text {
+       font-size: 0.8rem;
+    }   
+
+    .home-carousel {
+       width: 100%;
+    }
+    .home-header h3{
+        font-size: 6.5vw;
+    }
+
+
+    }
+
+
+   

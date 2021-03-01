@@ -1,0 +1,33 @@
+
+
+
+.logo {
+    font-family: 'Fredoka One', cursive;
+}
+
+.large-screen {
+    display: flex;
+}
+
+.clear i {
+    font-size: 1rem;
+}
+.clear:hover {
+    background-color: darkgrey;
+}
+
+.dropdown-menu {
+transition: 1300ms ease;
+}
+
+@media only screen and (min-width: 760px) {
+.small-screen {
+    display: none;
+}}
+
+@media only screen and (max-width: 759px) {
+.large-screen {
+    display: none;
+}
+}
+
