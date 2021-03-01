@@ -2,7 +2,7 @@
   "name": "beer-passion",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/Raphael-Lvy/Beer-Passion",
+  "homepage":"https://raphael-lvy.github.io/Beer-Passion/",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@hot-loader/react-dom": "^16.8.6",
