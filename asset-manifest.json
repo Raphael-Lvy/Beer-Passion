@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Raphael-Lvy/Beer-Passion/static/css/main.3cb41d28.chunk.css",
+    "main.js": "/Raphael-Lvy/Beer-Passion/static/js/main.7d8df9f3.chunk.js",
+    "main.js.map": "/Raphael-Lvy/Beer-Passion/static/js/main.7d8df9f3.chunk.js.map",
+    "runtime-main.js": "/Raphael-Lvy/Beer-Passion/static/js/runtime-main.009db3a0.js",
+    "runtime-main.js.map": "/Raphael-Lvy/Beer-Passion/static/js/runtime-main.009db3a0.js.map",
+    "static/css/2.150d169a.chunk.css": "/Raphael-Lvy/Beer-Passion/static/css/2.150d169a.chunk.css",
+    "static/js/2.6a9ae116.chunk.js": "/Raphael-Lvy/Beer-Passion/static/js/2.6a9ae116.chunk.js",
+    "static/js/2.6a9ae116.chunk.js.map": "/Raphael-Lvy/Beer-Passion/static/js/2.6a9ae116.chunk.js.map",
+    "static/js/3.1cd63d03.chunk.js": "/Raphael-Lvy/Beer-Passion/static/js/3.1cd63d03.chunk.js",
+    "static/js/3.1cd63d03.chunk.js.map": "/Raphael-Lvy/Beer-Passion/static/js/3.1cd63d03.chunk.js.map",
+    "index.html": "/Raphael-Lvy/Beer-Passion/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Raphael-Lvy/Beer-Passion/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.3cb41d28.chunk.css.map": "/Raphael-Lvy/Beer-Passion/static/css/main.3cb41d28.chunk.css.map",
+    "static/js/2.6a9ae116.chunk.js.LICENSE.txt": "/Raphael-Lvy/Beer-Passion/static/js/2.6a9ae116.chunk.js.LICENSE.txt",
+    "static/media/beer.dc8da079.svg": "/Raphael-Lvy/Beer-Passion/static/media/beer.dc8da079.svg",
+    "static/media/jumbo4.2c6d9287.jpg": "/Raphael-Lvy/Beer-Passion/static/media/jumbo4.2c6d9287.jpg",
+    "static/media/jumbo5.18d8959f.jpg": "/Raphael-Lvy/Beer-Passion/static/media/jumbo5.18d8959f.jpg",
+    "static/media/jumbo6.84ce92d1.jpg": "/Raphael-Lvy/Beer-Passion/static/media/jumbo6.84ce92d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.009db3a0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6a9ae116.chunk.js",
+    "static/css/main.3cb41d28.chunk.css",
+    "static/js/main.7d8df9f3.chunk.js"
+  ]
+}
