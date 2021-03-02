@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Beer-Passion/static/css/main.3cb41d28.chunk.css",
-    "main.js": "/Beer-Passion/static/js/main.7d8df9f3.chunk.js",
-    "main.js.map": "/Beer-Passion/static/js/main.7d8df9f3.chunk.js.map",
+    "main.css": "/Beer-Passion/static/css/main.b14a144c.chunk.css",
+    "main.js": "/Beer-Passion/static/js/main.0ed806ca.chunk.js",
+    "main.js.map": "/Beer-Passion/static/js/main.0ed806ca.chunk.js.map",
     "runtime-main.js": "/Beer-Passion/static/js/runtime-main.b67cdd3b.js",
     "runtime-main.js.map": "/Beer-Passion/static/js/runtime-main.b67cdd3b.js.map",
     "static/css/2.150d169a.chunk.css": "/Beer-Passion/static/css/2.150d169a.chunk.css",
-    "static/js/2.6a9ae116.chunk.js": "/Beer-Passion/static/js/2.6a9ae116.chunk.js",
-    "static/js/2.6a9ae116.chunk.js.map": "/Beer-Passion/static/js/2.6a9ae116.chunk.js.map",
+    "static/js/2.59a2c41c.chunk.js": "/Beer-Passion/static/js/2.59a2c41c.chunk.js",
+    "static/js/2.59a2c41c.chunk.js.map": "/Beer-Passion/static/js/2.59a2c41c.chunk.js.map",
     "static/js/3.1cd63d03.chunk.js": "/Beer-Passion/static/js/3.1cd63d03.chunk.js",
     "static/js/3.1cd63d03.chunk.js.map": "/Beer-Passion/static/js/3.1cd63d03.chunk.js.map",
     "index.html": "/Beer-Passion/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Beer-Passion/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.3cb41d28.chunk.css.map": "/Beer-Passion/static/css/main.3cb41d28.chunk.css.map",
-    "static/js/2.6a9ae116.chunk.js.LICENSE.txt": "/Beer-Passion/static/js/2.6a9ae116.chunk.js.LICENSE.txt",
+    "static/css/main.b14a144c.chunk.css.map": "/Beer-Passion/static/css/main.b14a144c.chunk.css.map",
+    "static/js/2.59a2c41c.chunk.js.LICENSE.txt": "/Beer-Passion/static/js/2.59a2c41c.chunk.js.LICENSE.txt",
     "static/media/beer.dc8da079.svg": "/Beer-Passion/static/media/beer.dc8da079.svg",
     "static/media/jumbo4.2c6d9287.jpg": "/Beer-Passion/static/media/jumbo4.2c6d9287.jpg",
     "static/media/jumbo5.18d8959f.jpg": "/Beer-Passion/static/media/jumbo5.18d8959f.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.b67cdd3b.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.6a9ae116.chunk.js",
-    "static/css/main.3cb41d28.chunk.css",
-    "static/js/main.7d8df9f3.chunk.js"
+    "static/js/2.59a2c41c.chunk.js",
+    "static/css/main.b14a144c.chunk.css",
+    "static/js/main.0ed806ca.chunk.js"
   ]
 }
